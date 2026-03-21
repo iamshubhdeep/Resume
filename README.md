@@ -2,7 +2,7 @@
 
 🎓 B.Tech CSE @ VIT Bhopal (2023–2027)
 💡 Full-Stack Developer | AI + IoT Builder
-📍 India
+📍 Gurugram,Haryana,India
 
 📧 [iamshubhdeep@gmail.com](mailto:iamshubhdeep@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/shubhdeep-singh-55397b288)
