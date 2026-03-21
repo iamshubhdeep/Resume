@@ -35,6 +35,8 @@ I enjoy solving real-world problems and quickly adapting to new technologies wit
 
 ### 📖 Dhan-Niti: AI Storytelling Web App
 
+🔗 [View Project](https://github.com/yugh88/Dhan-Niti)
+
 **Tech Stack:** React.js, TailwindCSS, Node.js, MongoDB, GPT API
 
 * ✨ Built an AI-powered storytelling platform with dynamic content generation
