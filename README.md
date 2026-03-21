@@ -1,81 +1,63 @@
-# 👋 Hi, I'm Shubhdeep Singh
+# Shubhdeep Singh
 
-🎓 B.Tech CSE @ VIT Bhopal (2023–2027)
-💡 Full-Stack Developer | AI + IoT Builder
-📍 Gurugram,Haryana,India
+> Computer Science undergraduate at VIT Bhopal University | Full-Stack & IoT Developer
 
-📧 [iamshubhdeep@gmail.com](mailto:iamshubhdeep@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/shubhdeep-singh-55397b288)
-💻 [GitHub](https://github.com/iamshubhdeep)
+[![Email](https://img.shields.io/badge/Email-iamshubhdeep%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:iamshubhdeep@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shubhdeep--singh-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhdeep-singh-55397b288)
+[![GitHub](https://img.shields.io/badge/GitHub-iamshubhdeep-181717?style=flat&logo=github&logoColor=white)](https://github.com/iamshubhdeep)
 
 ---
 
-## 🧠 About Me
+## 📄 Resume
 
-I’m a third-year Computer Science student who builds across the stack — from **React frontends to Python backends**, and even integrates **real hardware with AI systems**.
+👉 **[Download Latest Resume (PDF)](./Resume.pdf)**
 
-I enjoy solving real-world problems and quickly adapting to new technologies without needing much hand-holding.
-
----
-
-## 🚀 Projects
-
-### 🌿 Indoor Health Hub
-
-🔗 [View Project](https://github.com/ROHAN-3105/indoor-health-hub)
-
-**Tech Stack:** React, TypeScript, TailwindCSS, FastAPI, SQLite, LangChain, Google Gemini
-
-* 📊 Built a real-time dashboard tracking **Temperature, Humidity, PM2.5, PM10, Noise, Light**
-* 🤖 Developed **AI Health Guardian chatbot** with predictive insights using historical data
-* 📡 Implemented **Web Bluetooth API** for real-time ESP32 sensor streaming (no server needed)
-* 🔐 Designed FastAPI backend with **JWT authentication & async database**
+Built with LaTeX · Last updated March 2026
 
 ---
 
-### 📖 Dhan-Niti: AI Storytelling Web App
+## 🧑‍💻 About Me
 
-🔗 [View Project](https://github.com/yugh88/Dhan-Niti)
+Third-year CS student with a focus on building full-stack web applications and IoT systems. I work across the entire stack — React and TypeScript on the frontend, FastAPI and Node.js on the backend — and have shipped projects that connect real hardware with AI. I pick up new tools fast and prefer learning by building.
 
-**Tech Stack:** React.js, TailwindCSS, Node.js, MongoDB, GPT API
+---
 
-* ✨ Built an AI-powered storytelling platform with dynamic content generation
-* 🧠 Integrated GPT-based NLP for **context-aware story creation**
-* 🎨 Designed intuitive UI for better engagement
-* ⚙️ Managed backend APIs and database
+## 🚀 Featured Projects
+
+### 🏠 [Indoor Health Hub](https://github.com/ROHAN-3105/indoor-health-hub)
+> React · TypeScript · TailwindCSS · FastAPI · SQLite · Google Gemini
+
+Real-time indoor environment monitoring system with an AI health guardian chatbot, Web Bluetooth ESP32 integration, and a WHO/ASHRAE-based health scoring algorithm.
+
+---
+
+### 💰 [Dhan-Niti](https://github.com/yugh88/Dhan-Niti)
+> React Native · Expo · Firebase · Clerk · Rapid API
+
+Cross-platform financial literacy app built to empower rural women in India with multilingual AI guidance, expense tracking, mentor connect, and offline-capable data storage.
 
 ---
 
 ## 🏆 Achievements
 
-* 🥇 Finalist — NASA Space Apps Challenge (2024)
-* 🥉 3rd Place — IEEE NSUT Tech Transducer (2024)
+| Year | Achievement |
+|------|-------------|
+| 2024 | 🚀 **Finalist** — NASA Space Apps Challenge |
+| 2024 | 🥉 **Third Place** — IEEE NSUT Tech Transducer |
 
 ---
 
-## 🎓 Education
+## 🛠️ Tech Stack
 
-* 🎓 B.Tech CSE — VIT Bhopal (2023–2027) | CGPA: 8.2
-* 🏫 CBSE Class XII — 85.8%
-
----
-
-## 🛠️ Skills
-
-**Languages:**
-C++, Python, JavaScript, TypeScript, HTML, CSS
-
-**Frameworks & Tools:**
-React.js, Node.js, FastAPI, TailwindCSS
-
-**Databases:**
-MongoDB, MySQL, SQLite
-
-**Other:**
-Git, GitHub, VS Code, Problem Solving, Team Collaboration
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | C++, Python, JavaScript, TypeScript, HTML, CSS |
+| **Frameworks** | React.js, Node.js, FastAPI, TailwindCSS |
+| **Databases** | MongoDB, MySQL, SQLite |
+| **Tools** | Git, GitHub, VS Code |
 
 ---
 
-## ⚡ Fun Fact
+## 📬 Open to Opportunities
 
-I like building systems where **software meets hardware + AI** — that’s where things get really interesting 🚀
+I am actively looking for **internships and entry-level roles** in full-stack development, backend engineering, or anything at the intersection of AI and systems. Feel free to reach out at **iamshubhdeep@gmail.com**.
