@@ -6,13 +6,6 @@
 
 ---
 
-## 📄 Resume
-
-👉 **[Download Latest Resume (PDF)](https://github.com/iamshubhdeep/Resume/blob/main/Resume.pdf)**
-
-Last updated July 2026
-
----
 
 ## 🧑‍💻 About Me
 
