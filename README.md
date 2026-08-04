@@ -67,14 +67,11 @@ Built a cross-platform mobile app to empower rural women in India with financial
 
 ## 📜 Certifications
 
-- **Introduction to Machine Learning** — NPTEL (IIT Madras)  
-  🏅 Elite Certification | **2025**
-
-- **Intermediate Machine Learning** — Kaggle  
-  🏅 Certificate of Completion | **2026**
-
-- **Oracle Cloud Infrastructure Certified AI Foundations Associate** — Oracle University  
-  🏅 Oracle Certified | **2026**
+| Certification | Provider | Year |
+|---------------|----------|------|
+| Introduction to Machine Learning *(Elite Certification)* | NPTEL (IIT Madras) | 2025 |
+| Intermediate Machine Learning | Kaggle | 2026 |
+| Oracle Cloud Infrastructure Certified AI Foundations Associate | Oracle University | 2026 |
 
 ## 📬 Open to Opportunities
 
