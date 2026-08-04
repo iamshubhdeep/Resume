@@ -9,25 +9,28 @@
 
 ## 🧑‍💻 About Me
 
-Final-year Computer Science student at VIT Bhopal with experience in AI-powered applications, full-stack development, and IoT systems. I've built projects involving LLM integration, AI chatbots, predictive analytics, and real-time data processing using Python, FastAPI, and Google Gemini. Passionate about developing intelligent systems that combine machine learning and software engineering to solve real-world problems.
+Final-year Computer Science student at VIT Bhopal University with a strong foundation in data structures, full-stack
+development, and applied machine learning. Experienced in building end-to-end systems spanning IoT, real-time data
+processing, and AI-powered applications using Python, FastAPI, and Google Gemini. Quick learner with a track record of
+shipping functional, well-engineered projects both independently and in hackathon teams.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏠 [Indoor Health Hub](https://github.com/ROHAN-3105/indoor-health-hub) — 2026
-> ESP32 · React · TypeScript · TailwindCSS · FastAPI · SQLite · Google Gemini
+### 🏠 [Indoor Health Monitoring System](https://github.com/iamshubhdeep/Indoor-Health-Monitoring-System) — 2026
+> ESP32 · React · TypeScript · TailwindCSS · FastAPI · SQLite 
 
-AI-powered IoT platform for real-time indoor health monitoring, built on ESP32 with multiple environmental sensors.
-- Integrated Google Gemini to answer questions from historical sensor data and generate personalized health recommendations
+Developed an AI-powered IoT platform using ESP32 and multiple environmental sensors for real-time indoor health monitoring
 - Built a FastAPI backend with JWT authentication, asynchronous APIs, SQLite, and multi-device management
+- Integrated Google Gemini to answer questions using historical sensor data and generate personalized health recommendations
 - Designed an interactive React dashboard with live sensor visualization, alerts, and predictive analytics
 
 ### 💰 [Dhan-Niti: Financial Literacy App](https://github.com/yugh88/Dhan-Niti) — 2024
 > React Native · Expo · Firebase · Clerk · Rapid API
 
-Cross-platform mobile app empowering rural women in India with financial literacy through multilingual modules covering budgeting, saving, investing, and micro-investments.
-- Multilingual AI chatbot via Rapid API for personalised financial guidance in Hindi, Tamil, and Telugu
+Built a cross-platform mobile app to empower rural women in India with financial literacy through multilingual modules covering budgeting, saving, investing, and micro-investments
+- Integrated a multilingual AI chatbot via Rapid API for personalised financial guidance and budgeting advice in regional languages including Hindi, Tamil, and Telugu
 - Cloud Firestore for offline-capable storage; Clerk Authentication for secure onboarding
 - Expense tracker, mentor connect, curated financial news, and AI-driven storytelling features
 
@@ -37,19 +40,9 @@ Cross-platform mobile app empowering rural women in India with financial literac
 
 | Institution | Degree | Duration | Grade |
 |---|---|---|---|
-| VIT Bhopal University | B.Tech in Computer Science (CSE Core) | 2023 – 2027 | CGPA: 8.32 / 10 |
+| VIT Bhopal University | B.Tech in Computer Science (CSE Core) | 2023 – 2027 | CGPA: 8.36 / 10 |
 | Presidium School | XII, CBSE | 2022 | 85.8% |
 
----
-
-## 🏆 Achievements
-
-| Year | Achievement |
-|---|---|
-| 2024 | 🚀 **Finalist** — NASA Space Apps Challenge |
-| 2024 | 🥉 **Third Place** — IEEE NSUT Tech Transducer |
-
----
 
 ## 🛠️ Tech Stack
 
@@ -62,6 +55,26 @@ Cross-platform mobile app empowering rural women in India with financial literac
 | **Tools** | Git, GitHub, VS Code, Google Gemini API |
 
 ---
+
+## 🏆 Achievements
+
+| Year | Achievement |
+|---|---|
+| 2024 | 🚀 **Finalist** — NASA Space Apps Challenge |
+| 2024 | 🥉 **Third Place** — IEEE NSUT Tech Transducer |
+
+---
+
+## 📜 Certifications
+
+- **Introduction to Machine Learning** — NPTEL (IIT Madras)  
+  🏅 Elite Certification | **2025**
+
+- **Intermediate Machine Learning** — Kaggle  
+  🏅 Certificate of Completion | **2026**
+
+- **Oracle Cloud Infrastructure Certified AI Foundations Associate** — Oracle University  
+  🏅 Oracle Certified | **2026**
 
 ## 📬 Open to Opportunities
 
